@@ -1,5 +1,5 @@
 {
-    "name": "custome/authrole",
+    "name": "customeauth/authrole",
     "autoload": {
         "psr-4": {
             "Custome\\Authrole\\": "src/"
