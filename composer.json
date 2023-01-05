@@ -1,0 +1,17 @@
+{
+    "name": "custome/authrole",
+    "autoload": {
+        "psr-4": {
+            "Custome\\Authrole\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shital Bhanderi",
+            "email": "bhanderi.shital.123@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
